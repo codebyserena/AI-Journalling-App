@@ -1,4 +1,4 @@
-# ReflectAI Journal
+# AI-journalling app
 
 ## Start the app
 
