@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ReflectAI Journal
 
 ## Run the app
@@ -116,3 +117,6 @@ If you want to run the backend with DistilBERT instead:
 EMOTION_MODEL_PATH=backend/emotion_model_improved \
 venv/bin/python -m uvicorn backend.app:app --host 127.0.0.1 --port 8001 --reload
 ```
+=======
+# AI-Journalling-App
+>>>>>>> c28a62a80d4a0370661c95af3adb64b7df2cde57

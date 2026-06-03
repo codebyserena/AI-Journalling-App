@@ -1,12 +1,15 @@
-# ML models
-backend/emotion_model/
-backend/emotion_model_improved/
-backend/emotion_model_improved_test/
-backend/emotion_model_roberta/
-backend/emotion_model_roberta_class_balanced_focal/
-backend/emotion_model_roberta_test/
-backend/emotion_model_roberta_weighted_focal/
+# ML models (VERY IMPORTANT - large files)
+backend/emotion_model*/
+backend/emotion_model_improved*/
+backend/emotion_model_roberta*/
+backend/emotion_model_roberta_*/
 
-# Python
+# Python cache
 __pycache__/
 *.pyc
+
+# OS files
+.DS_Store
+
+# Databases
+*.db
