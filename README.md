@@ -1,29 +1,28 @@
-<<<<<<< HEAD
 # ReflectAI Journal
 
-## Run the app
+## Start the app
 
-Open a terminal in the project root:
+From the project root:
 
 ```bash
 cd "/Users/serenamendanha/Desktop/tcd/Semester 1/dissertation"
 ```
 
-Start the backend with the final RoBERTa model:
+Start the backend:
 
 ```bash
 EMOTION_MODEL_PATH=backend/emotion_model_roberta \
 venv/bin/python -m uvicorn backend.app:app --host 127.0.0.1 --port 8001 --reload
 ```
 
-Open a second terminal and start the frontend:
+Start the frontend in a second terminal:
 
 ```bash
 cd "/Users/serenamendanha/Desktop/tcd/Semester 1/dissertation/quiet-mind-journal"
 npm run dev
 ```
 
-Open the app at:
+App URL:
 
 ```text
 http://localhost:8080
@@ -31,21 +30,10 @@ http://localhost:8080
 
 ## Useful commands
 
-Prepare the improved dataset:
+Prepare the dataset:
 
 ```bash
-cd "/Users/serenamendanha/Desktop/tcd/Semester 1/dissertation"
 venv/bin/python -m backend.data.prepare_goemotions_dataset
-```
-
-Train DistilBERT:
-
-```bash
-venv/bin/python -m backend.train_distilbert \
-  --data backend/data/cleaned_journal_data_improved.csv \
-  --output-dir backend/emotion_model_improved \
-  --epochs 3 \
-  --batch-size 16
 ```
 
 Train RoBERTa:
@@ -56,6 +44,16 @@ venv/bin/python -m backend.train_roberta \
   --output-dir backend/emotion_model_roberta \
   --epochs 3 \
   --batch-size 8
+```
+
+Train DistilBERT:
+
+```bash
+venv/bin/python -m backend.train_distilbert \
+  --data backend/data/cleaned_journal_data_improved.csv \
+  --output-dir backend/emotion_model_improved \
+  --epochs 3 \
+  --batch-size 16
 ```
 
 Train RoBERTa with weighted focal loss:
@@ -95,28 +93,13 @@ venv/bin/python -m backend.experiments.compare_methods \
   --output-dir backend/experiments/results/final_model_comparison
 ```
 
-Regenerate dissertation graphs and tables:
-
-```bash
-venv/bin/python -m backend.experiments.build_dissertation_evidence
-```
-
-Analyze user feedback:
-
-```bash
-venv/bin/python -m backend.experiments.analyze_feedback
-```
-
 ## Troubleshooting
 
-If the frontend shows `Failed to fetch`, make sure the backend is running on `127.0.0.1:8001`.
+If the frontend shows `Failed to fetch`, check that the backend is running on `127.0.0.1:8001`.
 
-If you want to run the backend with DistilBERT instead:
+Run the backend with DistilBERT:
 
 ```bash
 EMOTION_MODEL_PATH=backend/emotion_model_improved \
 venv/bin/python -m uvicorn backend.app:app --host 127.0.0.1 --port 8001 --reload
 ```
-=======
-# AI-Journalling-App
->>>>>>> c28a62a80d4a0370661c95af3adb64b7df2cde57
