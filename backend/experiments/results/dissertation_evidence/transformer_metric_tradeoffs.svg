@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="430" viewBox="0 0 1100 430">
+<rect width="100%" height="100%" fill="#fbfaf7"/>
+<text x="24" y="32" font-family="Arial" font-size="22" font-weight="700" fill="#24312e">Transformer Metric Trade-Offs</text>
+<line x1="80" y1="338.0" x2="1060" y2="338.0" stroke="#e4dfd4" stroke-width="1"/>
+<text x="34" y="342.0" font-family="Arial" font-size="12" fill="#6f746f">0.00</text>
+<line x1="80" y1="266.5" x2="1060" y2="266.5" stroke="#e4dfd4" stroke-width="1"/>
+<text x="34" y="270.5" font-family="Arial" font-size="12" fill="#6f746f">0.25</text>
+<line x1="80" y1="195.0" x2="1060" y2="195.0" stroke="#e4dfd4" stroke-width="1"/>
+<text x="34" y="199.0" font-family="Arial" font-size="12" fill="#6f746f">0.50</text>
+<line x1="80" y1="123.5" x2="1060" y2="123.5" stroke="#e4dfd4" stroke-width="1"/>
+<text x="34" y="127.5" font-family="Arial" font-size="12" fill="#6f746f">0.75</text>
+<rect x="102.0" y="204.0" width="34" height="134.0" rx="4" fill="#446f64"/>
+<rect x="142.0" y="222.3" width="34" height="115.7" rx="4" fill="#6f9f8d"/>
+<rect x="182.0" y="218.5" width="34" height="119.5" rx="4" fill="#d6a35d"/>
+<rect x="222.0" y="185.4" width="34" height="152.6" rx="4" fill="#9c6f9f"/>
+<text x="94.0" y="376" font-family="Arial" font-size="12" fill="#39423f">DistilBERT</text>
+<rect x="344.5" y="196.8" width="34" height="141.2" rx="4" fill="#446f64"/>
+<rect x="384.5" y="214.3" width="34" height="123.7" rx="4" fill="#6f9f8d"/>
+<rect x="424.5" y="203.6" width="34" height="134.4" rx="4" fill="#d6a35d"/>
+<rect x="464.5" y="189.2" width="34" height="148.8" rx="4" fill="#9c6f9f"/>
+<text x="336.5" y="376" font-family="Arial" font-size="12" fill="#39423f">RoBERTa</text>
+<rect x="587.0" y="200.8" width="34" height="137.2" rx="4" fill="#446f64"/>
+<rect x="627.0" y="212.7" width="34" height="125.3" rx="4" fill="#6f9f8d"/>
+<rect x="667.0" y="218.2" width="34" height="119.8" rx="4" fill="#d6a35d"/>
+<rect x="707.0" y="177.5" width="34" height="160.5" rx="4" fill="#9c6f9f"/>
+<text x="579.0" y="376" font-family="Arial" font-size="12" fill="#39423f">RoBERTa + weighted focal loss</text>
+<rect x="829.5" y="203.8" width="34" height="134.2" rx="4" fill="#446f64"/>
+<rect x="869.5" y="207.6" width="34" height="130.4" rx="4" fill="#6f9f8d"/>
+<rect x="909.5" y="222.7" width="34" height="115.3" rx="4" fill="#d6a35d"/>
+<rect x="949.5" y="177.3" width="34" height="160.7" rx="4" fill="#9c6f9f"/>
+<text x="821.5" y="376" font-family="Arial" font-size="12" fill="#39423f">RoBERTa + class-balanced focal loss</text>
+<rect x="690" y="20" width="12" height="12" fill="#446f64"/>
+<text x="708" y="31" font-family="Arial" font-size="12" fill="#39423f">Micro F1</text>
+<rect x="690" y="40" width="12" height="12" fill="#6f9f8d"/>
+<text x="708" y="51" font-family="Arial" font-size="12" fill="#39423f">Macro F1</text>
+<rect x="690" y="60" width="12" height="12" fill="#d6a35d"/>
+<text x="708" y="71" font-family="Arial" font-size="12" fill="#39423f">Precision Micro</text>
+<rect x="690" y="80" width="12" height="12" fill="#9c6f9f"/>
+<text x="708" y="91" font-family="Arial" font-size="12" fill="#39423f">Recall Micro</text>
+</svg>

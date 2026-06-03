@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="408" viewBox="0 0 980 408">
+<rect width="100%" height="100%" fill="#fbfaf7"/>
+<text x="24" y="34" font-family="Arial" font-size="22" font-weight="700" fill="#24312e">Macro-F1 by Method</text>
+<text x="24" y="76" font-family="Arial" font-size="13" fill="#39423f">Dummy majority</text>
+<rect x="260" y="58" width="0.00" height="22" rx="4" fill="#7aa899"/>
+<text x="268.0" y="74" font-family="Arial" font-size="13" fill="#39423f">0.000</text>
+<text x="24" y="110" font-family="Arial" font-size="13" fill="#39423f">TF-IDF Naive Bayes</text>
+<rect x="260" y="92" width="115.36" height="22" rx="4" fill="#7aa899"/>
+<text x="383.36359848128666" y="108" font-family="Arial" font-size="13" fill="#39423f">0.083</text>
+<text x="24" y="144" font-family="Arial" font-size="13" fill="#39423f">Lexicon baseline</text>
+<rect x="260" y="126" width="329.06" height="22" rx="4" fill="#7aa899"/>
+<text x="597.0641427755254" y="142" font-family="Arial" font-size="13" fill="#39423f">0.238</text>
+<text x="24" y="178" font-family="Arial" font-size="13" fill="#39423f">TF-IDF SVM</text>
+<rect x="260" y="160" width="412.66" height="22" rx="4" fill="#7aa899"/>
+<text x="680.6631314483711" y="176" font-family="Arial" font-size="13" fill="#39423f">0.299</text>
+<text x="24" y="212" font-family="Arial" font-size="13" fill="#39423f">TF-IDF Logistic Regression</text>
+<rect x="260" y="194" width="474.20" height="22" rx="4" fill="#7aa899"/>
+<text x="742.197744510407" y="210" font-family="Arial" font-size="13" fill="#39423f">0.343</text>
+<text x="24" y="246" font-family="Arial" font-size="13" fill="#39423f">DistilBERT</text>
+<rect x="260" y="228" width="558.88" height="22" rx="4" fill="#7aa899"/>
+<text x="826.8765992036022" y="244" font-family="Arial" font-size="13" fill="#39423f">0.404</text>
+<text x="24" y="280" font-family="Arial" font-size="13" fill="#39423f">RoBERTa</text>
+<rect x="260" y="262" width="597.80" height="22" rx="4" fill="#3f7f6c"/>
+<text x="865.8037240568734" y="278" font-family="Arial" font-size="13" fill="#39423f">0.433</text>
+<text x="24" y="314" font-family="Arial" font-size="13" fill="#39423f">RoBERTa + weighted focal loss</text>
+<rect x="260" y="296" width="605.44" height="22" rx="4" fill="#7aa899"/>
+<text x="873.4391852821782" y="312" font-family="Arial" font-size="13" fill="#39423f">0.438</text>
+<text x="24" y="348" font-family="Arial" font-size="13" fill="#39423f">RoBERTa + class-balanced focal loss</text>
+<rect x="260" y="330" width="630.00" height="22" rx="4" fill="#7aa899"/>
+<text x="898.0" y="346" font-family="Arial" font-size="13" fill="#39423f">0.456</text>
+</svg>

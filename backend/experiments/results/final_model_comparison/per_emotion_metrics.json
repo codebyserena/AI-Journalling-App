@@ -1,0 +1,2270 @@
+[
+  {
+    "method": "dummy_majority",
+    "emotion": "admiration",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 1026,
+    "seed": 42
+  },
+  {
+    "method": "dummy_majority",
+    "emotion": "amusement",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 541,
+    "seed": 42
+  },
+  {
+    "method": "dummy_majority",
+    "emotion": "anger",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 437,
+    "seed": 42
+  },
+  {
+    "method": "dummy_majority",
+    "emotion": "annoyance",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 670,
+    "seed": 42
+  },
+  {
+    "method": "dummy_majority",
+    "emotion": "approval",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 999,
+    "seed": 42
+  },
+  {
+    "method": "dummy_majority",
+    "emotion": "caring",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 306,
+    "seed": 42
+  },
+  {
+    "method": "dummy_majority",
+    "emotion": "confusion",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 416,
+    "seed": 42
+  },
+  {
+    "method": "dummy_majority",
+    "emotion": "curiosity",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 552,
+    "seed": 42
+  },
+  {
+    "method": "dummy_majority",
+    "emotion": "desire",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 184,
+    "seed": 42
+  },
+  {
+    "method": "dummy_majority",
+    "emotion": "disappointment",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 414,
+    "seed": 42
+  },
+  {
+    "method": "dummy_majority",
+    "emotion": "disapproval",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 632,
+    "seed": 42
+  },
+  {
+    "method": "dummy_majority",
+    "emotion": "disgust",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 291,
+    "seed": 42
+  },
+  {
+    "method": "dummy_majority",
+    "emotion": "embarrassment",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 123,
+    "seed": 42
+  },
+  {
+    "method": "dummy_majority",
+    "emotion": "excitement",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 310,
+    "seed": 42
+  },
+  {
+    "method": "dummy_majority",
+    "emotion": "fear",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 177,
+    "seed": 42
+  },
+  {
+    "method": "dummy_majority",
+    "emotion": "gratitude",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 671,
+    "seed": 42
+  },
+  {
+    "method": "dummy_majority",
+    "emotion": "grief",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 40,
+    "seed": 42
+  },
+  {
+    "method": "dummy_majority",
+    "emotion": "joy",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 461,
+    "seed": 42
+  },
+  {
+    "method": "dummy_majority",
+    "emotion": "love",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 479,
+    "seed": 42
+  },
+  {
+    "method": "dummy_majority",
+    "emotion": "nervousness",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 105,
+    "seed": 42
+  },
+  {
+    "method": "dummy_majority",
+    "emotion": "optimism",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 454,
+    "seed": 42
+  },
+  {
+    "method": "dummy_majority",
+    "emotion": "pride",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 76,
+    "seed": 42
+  },
+  {
+    "method": "dummy_majority",
+    "emotion": "realization",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 462,
+    "seed": 42
+  },
+  {
+    "method": "dummy_majority",
+    "emotion": "relief",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 77,
+    "seed": 42
+  },
+  {
+    "method": "dummy_majority",
+    "emotion": "remorse",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 131,
+    "seed": 42
+  },
+  {
+    "method": "dummy_majority",
+    "emotion": "sadness",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 386,
+    "seed": 42
+  },
+  {
+    "method": "dummy_majority",
+    "emotion": "surprise",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 333,
+    "seed": 42
+  },
+  {
+    "method": "dummy_majority",
+    "emotion": "neutral",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 2116,
+    "seed": 42
+  },
+  {
+    "method": "lexicon",
+    "emotion": "love",
+    "precision": 0.6152416356877324,
+    "recall": 0.6910229645093946,
+    "f1": 0.6509341199606686,
+    "support": 479,
+    "seed": 42
+  },
+  {
+    "method": "lexicon",
+    "emotion": "gratitude",
+    "precision": 0.8607954545454546,
+    "recall": 0.45156482861400893,
+    "f1": 0.592375366568915,
+    "support": 671,
+    "seed": 42
+  },
+  {
+    "method": "lexicon",
+    "emotion": "amusement",
+    "precision": 0.559322033898305,
+    "recall": 0.5489833641404805,
+    "f1": 0.5541044776119403,
+    "support": 541,
+    "seed": 42
+  },
+  {
+    "method": "lexicon",
+    "emotion": "remorse",
+    "precision": 0.4504950495049505,
+    "recall": 0.6946564885496184,
+    "f1": 0.5465465465465466,
+    "support": 131,
+    "seed": 42
+  },
+  {
+    "method": "lexicon",
+    "emotion": "joy",
+    "precision": 0.4656084656084656,
+    "recall": 0.38177874186550975,
+    "f1": 0.4195470798569726,
+    "support": 461,
+    "seed": 42
+  },
+  {
+    "method": "lexicon",
+    "emotion": "neutral",
+    "precision": 0.26336805555555554,
+    "recall": 0.7169187145557656,
+    "f1": 0.38522092432706956,
+    "support": 2116,
+    "seed": 42
+  },
+  {
+    "method": "lexicon",
+    "emotion": "sadness",
+    "precision": 0.5174129353233831,
+    "recall": 0.2694300518134715,
+    "f1": 0.3543441226575809,
+    "support": 386,
+    "seed": 42
+  },
+  {
+    "method": "lexicon",
+    "emotion": "surprise",
+    "precision": 0.44886363636363635,
+    "recall": 0.23723723723723725,
+    "f1": 0.3104125736738703,
+    "support": 333,
+    "seed": 42
+  },
+  {
+    "method": "lexicon",
+    "emotion": "fear",
+    "precision": 0.5522388059701493,
+    "recall": 0.20903954802259886,
+    "f1": 0.30327868852459017,
+    "support": 177,
+    "seed": 42
+  },
+  {
+    "method": "lexicon",
+    "emotion": "disgust",
+    "precision": 0.5048543689320388,
+    "recall": 0.17869415807560138,
+    "f1": 0.2639593908629442,
+    "support": 291,
+    "seed": 42
+  },
+  {
+    "method": "lexicon",
+    "emotion": "pride",
+    "precision": 0.3111111111111111,
+    "recall": 0.18421052631578946,
+    "f1": 0.23140495867768596,
+    "support": 76,
+    "seed": 42
+  },
+  {
+    "method": "lexicon",
+    "emotion": "nervousness",
+    "precision": 0.35294117647058826,
+    "recall": 0.17142857142857143,
+    "f1": 0.23076923076923078,
+    "support": 105,
+    "seed": 42
+  },
+  {
+    "method": "lexicon",
+    "emotion": "desire",
+    "precision": 0.12846347607052896,
+    "recall": 0.5543478260869565,
+    "f1": 0.2085889570552147,
+    "support": 184,
+    "seed": 42
+  },
+  {
+    "method": "lexicon",
+    "emotion": "approval",
+    "precision": 0.27167630057803466,
+    "recall": 0.14114114114114115,
+    "f1": 0.1857707509881423,
+    "support": 999,
+    "seed": 42
+  },
+  {
+    "method": "lexicon",
+    "emotion": "excitement",
+    "precision": 0.2765957446808511,
+    "recall": 0.12580645161290321,
+    "f1": 0.1729490022172949,
+    "support": 310,
+    "seed": 42
+  },
+  {
+    "method": "lexicon",
+    "emotion": "confusion",
+    "precision": 0.2177121771217712,
+    "recall": 0.14182692307692307,
+    "f1": 0.1717612809315866,
+    "support": 416,
+    "seed": 42
+  },
+  {
+    "method": "lexicon",
+    "emotion": "curiosity",
+    "precision": 0.2626728110599078,
+    "recall": 0.10326086956521739,
+    "f1": 0.1482444733420026,
+    "support": 552,
+    "seed": 42
+  },
+  {
+    "method": "lexicon",
+    "emotion": "optimism",
+    "precision": 0.2,
+    "recall": 0.09691629955947137,
+    "f1": 0.13056379821958458,
+    "support": 454,
+    "seed": 42
+  },
+  {
+    "method": "lexicon",
+    "emotion": "anger",
+    "precision": 0.13227513227513227,
+    "recall": 0.11441647597254005,
+    "f1": 0.12269938650306748,
+    "support": 437,
+    "seed": 42
+  },
+  {
+    "method": "lexicon",
+    "emotion": "embarrassment",
+    "precision": 0.36,
+    "recall": 0.07317073170731707,
+    "f1": 0.12162162162162163,
+    "support": 123,
+    "seed": 42
+  },
+  {
+    "method": "lexicon",
+    "emotion": "disapproval",
+    "precision": 0.18506493506493507,
+    "recall": 0.09018987341772151,
+    "f1": 0.12127659574468085,
+    "support": 632,
+    "seed": 42
+  },
+  {
+    "method": "lexicon",
+    "emotion": "caring",
+    "precision": 0.10071942446043165,
+    "recall": 0.13725490196078433,
+    "f1": 0.11618257261410789,
+    "support": 306,
+    "seed": 42
+  },
+  {
+    "method": "lexicon",
+    "emotion": "grief",
+    "precision": 0.11538461538461539,
+    "recall": 0.075,
+    "f1": 0.09090909090909091,
+    "support": 40,
+    "seed": 42
+  },
+  {
+    "method": "lexicon",
+    "emotion": "disappointment",
+    "precision": 0.3953488372093023,
+    "recall": 0.04106280193236715,
+    "f1": 0.07439824945295405,
+    "support": 414,
+    "seed": 42
+  },
+  {
+    "method": "lexicon",
+    "emotion": "realization",
+    "precision": 0.3333333333333333,
+    "recall": 0.030303030303030304,
+    "f1": 0.05555555555555555,
+    "support": 462,
+    "seed": 42
+  },
+  {
+    "method": "lexicon",
+    "emotion": "relief",
+    "precision": 0.057971014492753624,
+    "recall": 0.05194805194805195,
+    "f1": 0.0547945205479452,
+    "support": 77,
+    "seed": 42
+  },
+  {
+    "method": "lexicon",
+    "emotion": "admiration",
+    "precision": 0.41304347826086957,
+    "recall": 0.018518518518518517,
+    "f1": 0.03544776119402985,
+    "support": 1026,
+    "seed": 42
+  },
+  {
+    "method": "lexicon",
+    "emotion": "annoyance",
+    "precision": 0.38461538461538464,
+    "recall": 0.007462686567164179,
+    "f1": 0.014641288433382138,
+    "support": 670,
+    "seed": 42
+  },
+  {
+    "method": "roberta_class_balanced_focal",
+    "emotion": "gratitude",
+    "precision": 0.8896434634974533,
+    "recall": 0.7809239940387481,
+    "f1": 0.8317460317460318,
+    "support": 671,
+    "seed": 42
+  },
+  {
+    "method": "roberta_class_balanced_focal",
+    "emotion": "love",
+    "precision": 0.655367231638418,
+    "recall": 0.7265135699373695,
+    "f1": 0.689108910891089,
+    "support": 479,
+    "seed": 42
+  },
+  {
+    "method": "roberta_class_balanced_focal",
+    "emotion": "amusement",
+    "precision": 0.6023916292974589,
+    "recall": 0.744916820702403,
+    "f1": 0.6661157024793388,
+    "support": 541,
+    "seed": 42
+  },
+  {
+    "method": "roberta_class_balanced_focal",
+    "emotion": "admiration",
+    "precision": 0.6522210184182016,
+    "recall": 0.5867446393762183,
+    "f1": 0.6177526936890713,
+    "support": 1026,
+    "seed": 42
+  },
+  {
+    "method": "roberta_class_balanced_focal",
+    "emotion": "fear",
+    "precision": 0.4827586206896552,
+    "recall": 0.632768361581921,
+    "f1": 0.5476772616136919,
+    "support": 177,
+    "seed": 42
+  },
+  {
+    "method": "roberta_class_balanced_focal",
+    "emotion": "remorse",
+    "precision": 0.43457943925233644,
+    "recall": 0.7099236641221374,
+    "f1": 0.5391304347826087,
+    "support": 131,
+    "seed": 42
+  },
+  {
+    "method": "roberta_class_balanced_focal",
+    "emotion": "grief",
+    "precision": 0.7083333333333334,
+    "recall": 0.425,
+    "f1": 0.53125,
+    "support": 40,
+    "seed": 42
+  },
+  {
+    "method": "roberta_class_balanced_focal",
+    "emotion": "curiosity",
+    "precision": 0.4028985507246377,
+    "recall": 0.7554347826086957,
+    "f1": 0.5255198487712666,
+    "support": 552,
+    "seed": 42
+  },
+  {
+    "method": "roberta_class_balanced_focal",
+    "emotion": "surprise",
+    "precision": 0.4805194805194805,
+    "recall": 0.5555555555555556,
+    "f1": 0.5153203342618384,
+    "support": 333,
+    "seed": 42
+  },
+  {
+    "method": "roberta_class_balanced_focal",
+    "emotion": "sadness",
+    "precision": 0.5024752475247525,
+    "recall": 0.5259067357512953,
+    "f1": 0.5139240506329114,
+    "support": 386,
+    "seed": 42
+  },
+  {
+    "method": "roberta_class_balanced_focal",
+    "emotion": "neutral",
+    "precision": 0.37554904831625185,
+    "recall": 0.7273156899810964,
+    "f1": 0.4953331187640811,
+    "support": 2116,
+    "seed": 42
+  },
+  {
+    "method": "roberta_class_balanced_focal",
+    "emotion": "desire",
+    "precision": 0.4853801169590643,
+    "recall": 0.45108695652173914,
+    "f1": 0.4676056338028169,
+    "support": 184,
+    "seed": 42
+  },
+  {
+    "method": "roberta_class_balanced_focal",
+    "emotion": "joy",
+    "precision": 0.38108882521489973,
+    "recall": 0.5770065075921909,
+    "f1": 0.45901639344262296,
+    "support": 461,
+    "seed": 42
+  },
+  {
+    "method": "roberta_class_balanced_focal",
+    "emotion": "anger",
+    "precision": 0.4186991869918699,
+    "recall": 0.47139588100686497,
+    "f1": 0.4434876210979548,
+    "support": 437,
+    "seed": 42
+  },
+  {
+    "method": "roberta_class_balanced_focal",
+    "emotion": "caring",
+    "precision": 0.3818615751789976,
+    "recall": 0.5228758169934641,
+    "f1": 0.4413793103448276,
+    "support": 306,
+    "seed": 42
+  },
+  {
+    "method": "roberta_class_balanced_focal",
+    "emotion": "optimism",
+    "precision": 0.46949602122015915,
+    "recall": 0.3898678414096916,
+    "f1": 0.4259927797833935,
+    "support": 454,
+    "seed": 42
+  },
+  {
+    "method": "roberta_class_balanced_focal",
+    "emotion": "confusion",
+    "precision": 0.31683168316831684,
+    "recall": 0.6153846153846154,
+    "f1": 0.41830065359477125,
+    "support": 416,
+    "seed": 42
+  },
+  {
+    "method": "roberta_class_balanced_focal",
+    "emotion": "pride",
+    "precision": 0.5581395348837209,
+    "recall": 0.3157894736842105,
+    "f1": 0.40336134453781514,
+    "support": 76,
+    "seed": 42
+  },
+  {
+    "method": "roberta_class_balanced_focal",
+    "emotion": "disapproval",
+    "precision": 0.36563307493540054,
+    "recall": 0.4477848101265823,
+    "f1": 0.40256045519203415,
+    "support": 632,
+    "seed": 42
+  },
+  {
+    "method": "roberta_class_balanced_focal",
+    "emotion": "disgust",
+    "precision": 0.4268292682926829,
+    "recall": 0.36082474226804123,
+    "f1": 0.39106145251396646,
+    "support": 291,
+    "seed": 42
+  },
+  {
+    "method": "roberta_class_balanced_focal",
+    "emotion": "excitement",
+    "precision": 0.3171355498721228,
+    "recall": 0.4,
+    "f1": 0.3537803138373752,
+    "support": 310,
+    "seed": 42
+  },
+  {
+    "method": "roberta_class_balanced_focal",
+    "emotion": "relief",
+    "precision": 0.3125,
+    "recall": 0.38961038961038963,
+    "f1": 0.3468208092485549,
+    "support": 77,
+    "seed": 42
+  },
+  {
+    "method": "roberta_class_balanced_focal",
+    "emotion": "annoyance",
+    "precision": 0.23540372670807452,
+    "recall": 0.5656716417910448,
+    "f1": 0.33245614035087717,
+    "support": 670,
+    "seed": 42
+  },
+  {
+    "method": "roberta_class_balanced_focal",
+    "emotion": "approval",
+    "precision": 0.30672645739910315,
+    "recall": 0.34234234234234234,
+    "f1": 0.32355723746452225,
+    "support": 999,
+    "seed": 42
+  },
+  {
+    "method": "roberta_class_balanced_focal",
+    "emotion": "embarrassment",
+    "precision": 0.2524752475247525,
+    "recall": 0.4146341463414634,
+    "f1": 0.31384615384615383,
+    "support": 123,
+    "seed": 42
+  },
+  {
+    "method": "roberta_class_balanced_focal",
+    "emotion": "disappointment",
+    "precision": 0.26865671641791045,
+    "recall": 0.30434782608695654,
+    "f1": 0.2853907134767837,
+    "support": 414,
+    "seed": 42
+  },
+  {
+    "method": "roberta_class_balanced_focal",
+    "emotion": "nervousness",
+    "precision": 0.37037037037037035,
+    "recall": 0.19047619047619047,
+    "f1": 0.25157232704402516,
+    "support": 105,
+    "seed": 42
+  },
+  {
+    "method": "roberta_class_balanced_focal",
+    "emotion": "realization",
+    "precision": 0.17848970251716248,
+    "recall": 0.33766233766233766,
+    "f1": 0.23353293413173654,
+    "support": 462,
+    "seed": 42
+  },
+  {
+    "method": "roberta_weighted_focal",
+    "emotion": "gratitude",
+    "precision": 0.8631239935587761,
+    "recall": 0.7988077496274217,
+    "f1": 0.8297213622291022,
+    "support": 671,
+    "seed": 42
+  },
+  {
+    "method": "roberta_weighted_focal",
+    "emotion": "love",
+    "precision": 0.586924219910847,
+    "recall": 0.824634655532359,
+    "f1": 0.6857638888888888,
+    "support": 479,
+    "seed": 42
+  },
+  {
+    "method": "roberta_weighted_focal",
+    "emotion": "amusement",
+    "precision": 0.5850066934404283,
+    "recall": 0.8077634011090573,
+    "f1": 0.6785714285714286,
+    "support": 541,
+    "seed": 42
+  },
+  {
+    "method": "roberta_weighted_focal",
+    "emotion": "admiration",
+    "precision": 0.5822676896845694,
+    "recall": 0.665692007797271,
+    "f1": 0.6211914506593906,
+    "support": 1026,
+    "seed": 42
+  },
+  {
+    "method": "roberta_weighted_focal",
+    "emotion": "fear",
+    "precision": 0.5297029702970297,
+    "recall": 0.6045197740112994,
+    "f1": 0.5646437994722955,
+    "support": 177,
+    "seed": 42
+  },
+  {
+    "method": "roberta_weighted_focal",
+    "emotion": "curiosity",
+    "precision": 0.4430379746835443,
+    "recall": 0.6340579710144928,
+    "f1": 0.5216095380029806,
+    "support": 552,
+    "seed": 42
+  },
+  {
+    "method": "roberta_weighted_focal",
+    "emotion": "neutral",
+    "precision": 0.4056737588652482,
+    "recall": 0.6758034026465028,
+    "f1": 0.5070023045559298,
+    "support": 2116,
+    "seed": 42
+  },
+  {
+    "method": "roberta_weighted_focal",
+    "emotion": "sadness",
+    "precision": 0.45213849287169044,
+    "recall": 0.5751295336787565,
+    "f1": 0.5062713797035348,
+    "support": 386,
+    "seed": 42
+  },
+  {
+    "method": "roberta_weighted_focal",
+    "emotion": "surprise",
+    "precision": 0.429769392033543,
+    "recall": 0.6156156156156156,
+    "f1": 0.5061728395061729,
+    "support": 333,
+    "seed": 42
+  },
+  {
+    "method": "roberta_weighted_focal",
+    "emotion": "remorse",
+    "precision": 0.3730769230769231,
+    "recall": 0.7404580152671756,
+    "f1": 0.4961636828644501,
+    "support": 131,
+    "seed": 42
+  },
+  {
+    "method": "roberta_weighted_focal",
+    "emotion": "joy",
+    "precision": 0.4683794466403162,
+    "recall": 0.5140997830802603,
+    "f1": 0.4901758014477766,
+    "support": 461,
+    "seed": 42
+  },
+  {
+    "method": "roberta_weighted_focal",
+    "emotion": "anger",
+    "precision": 0.42124542124542125,
+    "recall": 0.5263157894736842,
+    "f1": 0.46795523906408953,
+    "support": 437,
+    "seed": 42
+  },
+  {
+    "method": "roberta_weighted_focal",
+    "emotion": "optimism",
+    "precision": 0.43015521064301554,
+    "recall": 0.42731277533039647,
+    "f1": 0.4287292817679558,
+    "support": 454,
+    "seed": 42
+  },
+  {
+    "method": "roberta_weighted_focal",
+    "emotion": "confusion",
+    "precision": 0.41411764705882353,
+    "recall": 0.4230769230769231,
+    "f1": 0.41854934601664684,
+    "support": 416,
+    "seed": 42
+  },
+  {
+    "method": "roberta_weighted_focal",
+    "emotion": "caring",
+    "precision": 0.35362997658079626,
+    "recall": 0.4934640522875817,
+    "f1": 0.4120054570259209,
+    "support": 306,
+    "seed": 42
+  },
+  {
+    "method": "roberta_weighted_focal",
+    "emotion": "disapproval",
+    "precision": 0.3110561056105611,
+    "recall": 0.5965189873417721,
+    "f1": 0.4088937093275488,
+    "support": 632,
+    "seed": 42
+  },
+  {
+    "method": "roberta_weighted_focal",
+    "emotion": "desire",
+    "precision": 0.2935323383084577,
+    "recall": 0.6413043478260869,
+    "f1": 0.40273037542662116,
+    "support": 184,
+    "seed": 42
+  },
+  {
+    "method": "roberta_weighted_focal",
+    "emotion": "disgust",
+    "precision": 0.42063492063492064,
+    "recall": 0.3642611683848797,
+    "f1": 0.39042357274401474,
+    "support": 291,
+    "seed": 42
+  },
+  {
+    "method": "roberta_weighted_focal",
+    "emotion": "approval",
+    "precision": 0.3357271095152603,
+    "recall": 0.3743743743743744,
+    "f1": 0.3539990534784666,
+    "support": 999,
+    "seed": 42
+  },
+  {
+    "method": "roberta_weighted_focal",
+    "emotion": "annoyance",
+    "precision": 0.25778421433743665,
+    "recall": 0.5313432835820896,
+    "f1": 0.34714773281326183,
+    "support": 670,
+    "seed": 42
+  },
+  {
+    "method": "roberta_weighted_focal",
+    "emotion": "excitement",
+    "precision": 0.40865384615384615,
+    "recall": 0.27419354838709675,
+    "f1": 0.3281853281853282,
+    "support": 310,
+    "seed": 42
+  },
+  {
+    "method": "roberta_weighted_focal",
+    "emotion": "embarrassment",
+    "precision": 0.3333333333333333,
+    "recall": 0.2926829268292683,
+    "f1": 0.3116883116883117,
+    "support": 123,
+    "seed": 42
+  },
+  {
+    "method": "roberta_weighted_focal",
+    "emotion": "grief",
+    "precision": 0.35714285714285715,
+    "recall": 0.25,
+    "f1": 0.29411764705882354,
+    "support": 40,
+    "seed": 42
+  },
+  {
+    "method": "roberta_weighted_focal",
+    "emotion": "nervousness",
+    "precision": 0.28846153846153844,
+    "recall": 0.2857142857142857,
+    "f1": 0.28708133971291866,
+    "support": 105,
+    "seed": 42
+  },
+  {
+    "method": "roberta_weighted_focal",
+    "emotion": "pride",
+    "precision": 0.20382165605095542,
+    "recall": 0.42105263157894735,
+    "f1": 0.27467811158798283,
+    "support": 76,
+    "seed": 42
+  },
+  {
+    "method": "roberta_weighted_focal",
+    "emotion": "disappointment",
+    "precision": 0.28350515463917525,
+    "recall": 0.26570048309178745,
+    "f1": 0.2743142144638404,
+    "support": 414,
+    "seed": 42
+  },
+  {
+    "method": "roberta_weighted_focal",
+    "emotion": "realization",
+    "precision": 0.24224806201550386,
+    "recall": 0.27056277056277056,
+    "f1": 0.2556237218813906,
+    "support": 462,
+    "seed": 42
+  },
+  {
+    "method": "roberta_weighted_focal",
+    "emotion": "relief",
+    "precision": 0.21739130434782608,
+    "recall": 0.19480519480519481,
+    "f1": 0.2054794520547945,
+    "support": 77,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_logreg",
+    "emotion": "gratitude",
+    "precision": 0.7264021887824897,
+    "recall": 0.7913561847988078,
+    "f1": 0.7574893009985735,
+    "support": 671,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_logreg",
+    "emotion": "love",
+    "precision": 0.5461200585651538,
+    "recall": 0.778705636743215,
+    "f1": 0.6419965576592083,
+    "support": 479,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_logreg",
+    "emotion": "amusement",
+    "precision": 0.5333333333333333,
+    "recall": 0.7097966728280961,
+    "f1": 0.6090404440919904,
+    "support": 541,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_logreg",
+    "emotion": "admiration",
+    "precision": 0.4721030042918455,
+    "recall": 0.6432748538011696,
+    "f1": 0.5445544554455446,
+    "support": 1026,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_logreg",
+    "emotion": "remorse",
+    "precision": 0.4405940594059406,
+    "recall": 0.6793893129770993,
+    "f1": 0.5345345345345346,
+    "support": 131,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_logreg",
+    "emotion": "fear",
+    "precision": 0.3952380952380952,
+    "recall": 0.4689265536723164,
+    "f1": 0.4289405684754522,
+    "support": 177,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_logreg",
+    "emotion": "sadness",
+    "precision": 0.36398467432950193,
+    "recall": 0.49222797927461137,
+    "f1": 0.4185022026431718,
+    "support": 386,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_logreg",
+    "emotion": "neutral",
+    "precision": 0.3462314939434724,
+    "recall": 0.4862948960302457,
+    "f1": 0.4044811320754717,
+    "support": 2116,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_logreg",
+    "emotion": "joy",
+    "precision": 0.3048780487804878,
+    "recall": 0.4880694143167028,
+    "f1": 0.37531276063386154,
+    "support": 461,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_logreg",
+    "emotion": "curiosity",
+    "precision": 0.2846153846153846,
+    "recall": 0.4692028985507246,
+    "f1": 0.3543091655266758,
+    "support": 552,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_logreg",
+    "emotion": "surprise",
+    "precision": 0.3129411764705882,
+    "recall": 0.3993993993993994,
+    "f1": 0.35092348284960423,
+    "support": 333,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_logreg",
+    "emotion": "anger",
+    "precision": 0.2865853658536585,
+    "recall": 0.4302059496567506,
+    "f1": 0.34400731930466605,
+    "support": 437,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_logreg",
+    "emotion": "optimism",
+    "precision": 0.2723735408560311,
+    "recall": 0.46255506607929514,
+    "f1": 0.34285714285714286,
+    "support": 454,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_logreg",
+    "emotion": "disgust",
+    "precision": 0.27680798004987534,
+    "recall": 0.38144329896907214,
+    "f1": 0.3208092485549133,
+    "support": 291,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_logreg",
+    "emotion": "desire",
+    "precision": 0.24085365853658536,
+    "recall": 0.42934782608695654,
+    "f1": 0.30859375,
+    "support": 184,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_logreg",
+    "emotion": "disapproval",
+    "precision": 0.22418136020151133,
+    "recall": 0.4224683544303797,
+    "f1": 0.29292375205704885,
+    "support": 632,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_logreg",
+    "emotion": "caring",
+    "precision": 0.2071651090342679,
+    "recall": 0.434640522875817,
+    "f1": 0.2805907172995781,
+    "support": 306,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_logreg",
+    "emotion": "confusion",
+    "precision": 0.2139917695473251,
+    "recall": 0.375,
+    "f1": 0.2724890829694323,
+    "support": 416,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_logreg",
+    "emotion": "approval",
+    "precision": 0.21935483870967742,
+    "recall": 0.34034034034034033,
+    "f1": 0.266771282856022,
+    "support": 999,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_logreg",
+    "emotion": "pride",
+    "precision": 0.2535211267605634,
+    "recall": 0.23684210526315788,
+    "f1": 0.24489795918367346,
+    "support": 76,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_logreg",
+    "emotion": "excitement",
+    "precision": 0.1705685618729097,
+    "recall": 0.32903225806451614,
+    "f1": 0.22466960352422907,
+    "support": 310,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_logreg",
+    "emotion": "annoyance",
+    "precision": 0.17697594501718214,
+    "recall": 0.3074626865671642,
+    "f1": 0.22464558342420937,
+    "support": 670,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_logreg",
+    "emotion": "embarrassment",
+    "precision": 0.2076923076923077,
+    "recall": 0.21951219512195122,
+    "f1": 0.2134387351778656,
+    "support": 123,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_logreg",
+    "emotion": "grief",
+    "precision": 0.21621621621621623,
+    "recall": 0.2,
+    "f1": 0.2077922077922078,
+    "support": 40,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_logreg",
+    "emotion": "realization",
+    "precision": 0.1413673232908459,
+    "recall": 0.26406926406926406,
+    "f1": 0.18415094339622642,
+    "support": 462,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_logreg",
+    "emotion": "nervousness",
+    "precision": 0.19148936170212766,
+    "recall": 0.17142857142857143,
+    "f1": 0.18090452261306533,
+    "support": 105,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_logreg",
+    "emotion": "disappointment",
+    "precision": 0.13648293963254593,
+    "recall": 0.25120772946859904,
+    "f1": 0.17687074829931973,
+    "support": 414,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_logreg",
+    "emotion": "relief",
+    "precision": 0.09183673469387756,
+    "recall": 0.11688311688311688,
+    "f1": 0.10285714285714286,
+    "support": 77,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_nb",
+    "emotion": "gratitude",
+    "precision": 0.7661691542288557,
+    "recall": 0.45901639344262296,
+    "f1": 0.5740913327120224,
+    "support": 671,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_nb",
+    "emotion": "admiration",
+    "precision": 0.5504322766570605,
+    "recall": 0.1861598440545809,
+    "f1": 0.27822286962855064,
+    "support": 1026,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_nb",
+    "emotion": "love",
+    "precision": 0.5328947368421053,
+    "recall": 0.16910229645093947,
+    "f1": 0.25673534072900156,
+    "support": 479,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_nb",
+    "emotion": "anger",
+    "precision": 0.411214953271028,
+    "recall": 0.10068649885583524,
+    "f1": 0.16176470588235295,
+    "support": 437,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_nb",
+    "emotion": "amusement",
+    "precision": 0.43478260869565216,
+    "recall": 0.09242144177449169,
+    "f1": 0.1524390243902439,
+    "support": 541,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_nb",
+    "emotion": "neutral",
+    "precision": 0.45321637426900585,
+    "recall": 0.07325141776937619,
+    "f1": 0.12611879576891782,
+    "support": 2116,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_nb",
+    "emotion": "joy",
+    "precision": 0.2441860465116279,
+    "recall": 0.0455531453362256,
+    "f1": 0.07678244972577697,
+    "support": 461,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_nb",
+    "emotion": "fear",
+    "precision": 0.2,
+    "recall": 0.04519774011299435,
+    "f1": 0.07373271889400922,
+    "support": 177,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_nb",
+    "emotion": "sadness",
+    "precision": 0.24615384615384617,
+    "recall": 0.04145077720207254,
+    "f1": 0.07095343680709534,
+    "support": 386,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_nb",
+    "emotion": "optimism",
+    "precision": 0.21951219512195122,
+    "recall": 0.039647577092511016,
+    "f1": 0.06716417910447761,
+    "support": 454,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_nb",
+    "emotion": "caring",
+    "precision": 0.1875,
+    "recall": 0.0392156862745098,
+    "f1": 0.06486486486486487,
+    "support": 306,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_nb",
+    "emotion": "excitement",
+    "precision": 0.14285714285714285,
+    "recall": 0.02903225806451613,
+    "f1": 0.04825737265415549,
+    "support": 310,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_nb",
+    "emotion": "disapproval",
+    "precision": 0.18518518518518517,
+    "recall": 0.023734177215189875,
+    "f1": 0.04207573632538569,
+    "support": 632,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_nb",
+    "emotion": "curiosity",
+    "precision": 0.18309859154929578,
+    "recall": 0.02355072463768116,
+    "f1": 0.04173354735152488,
+    "support": 552,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_nb",
+    "emotion": "surprise",
+    "precision": 0.1568627450980392,
+    "recall": 0.024024024024024024,
+    "f1": 0.041666666666666664,
+    "support": 333,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_nb",
+    "emotion": "approval",
+    "precision": 0.19444444444444445,
+    "recall": 0.021021021021021023,
+    "f1": 0.037940379403794036,
+    "support": 999,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_nb",
+    "emotion": "disgust",
+    "precision": 0.1276595744680851,
+    "recall": 0.020618556701030927,
+    "f1": 0.03550295857988166,
+    "support": 291,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_nb",
+    "emotion": "remorse",
+    "precision": 0.07692307692307693,
+    "recall": 0.022900763358778626,
+    "f1": 0.03529411764705882,
+    "support": 131,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_nb",
+    "emotion": "annoyance",
+    "precision": 0.12903225806451613,
+    "recall": 0.01791044776119403,
+    "f1": 0.03145478374836173,
+    "support": 670,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_nb",
+    "emotion": "nervousness",
+    "precision": 0.06060606060606061,
+    "recall": 0.01904761904761905,
+    "f1": 0.028985507246376812,
+    "support": 105,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_nb",
+    "emotion": "desire",
+    "precision": 0.08108108108108109,
+    "recall": 0.016304347826086956,
+    "f1": 0.027149321266968326,
+    "support": 184,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_nb",
+    "emotion": "disappointment",
+    "precision": 0.0847457627118644,
+    "recall": 0.012077294685990338,
+    "f1": 0.021141649048625793,
+    "support": 414,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_nb",
+    "emotion": "pride",
+    "precision": 0.03333333333333333,
+    "recall": 0.013157894736842105,
+    "f1": 0.018867924528301886,
+    "support": 76,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_nb",
+    "emotion": "confusion",
+    "precision": 0.07547169811320754,
+    "recall": 0.009615384615384616,
+    "f1": 0.017057569296375266,
+    "support": 416,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_nb",
+    "emotion": "realization",
+    "precision": 0.038461538461538464,
+    "recall": 0.004329004329004329,
+    "f1": 0.007782101167315175,
+    "support": 462,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_nb",
+    "emotion": "embarrassment",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 123,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_nb",
+    "emotion": "grief",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 40,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_nb",
+    "emotion": "relief",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "support": 77,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_svm",
+    "emotion": "gratitude",
+    "precision": 0.7654867256637168,
+    "recall": 0.7734724292101341,
+    "f1": 0.7694588584136397,
+    "support": 671,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_svm",
+    "emotion": "love",
+    "precision": 0.5706618962432916,
+    "recall": 0.6659707724425887,
+    "f1": 0.6146435452793835,
+    "support": 479,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_svm",
+    "emotion": "amusement",
+    "precision": 0.541871921182266,
+    "recall": 0.609981515711645,
+    "f1": 0.5739130434782609,
+    "support": 541,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_svm",
+    "emotion": "admiration",
+    "precision": 0.484608619173263,
+    "recall": 0.5370370370370371,
+    "f1": 0.5094775774387424,
+    "support": 1026,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_svm",
+    "emotion": "fear",
+    "precision": 0.4883720930232558,
+    "recall": 0.3559322033898305,
+    "f1": 0.4117647058823529,
+    "support": 177,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_svm",
+    "emotion": "remorse",
+    "precision": 0.40336134453781514,
+    "recall": 0.366412213740458,
+    "f1": 0.384,
+    "support": 131,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_svm",
+    "emotion": "sadness",
+    "precision": 0.39444444444444443,
+    "recall": 0.36787564766839376,
+    "f1": 0.3806970509383378,
+    "support": 386,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_svm",
+    "emotion": "joy",
+    "precision": 0.35119047619047616,
+    "recall": 0.3839479392624729,
+    "f1": 0.36683937823834195,
+    "support": 461,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_svm",
+    "emotion": "neutral",
+    "precision": 0.3347350714886459,
+    "recall": 0.3761814744801512,
+    "f1": 0.35425011125945705,
+    "support": 2116,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_svm",
+    "emotion": "optimism",
+    "precision": 0.31669865642994244,
+    "recall": 0.3634361233480176,
+    "f1": 0.3384615384615385,
+    "support": 454,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_svm",
+    "emotion": "anger",
+    "precision": 0.3225806451612903,
+    "recall": 0.32036613272311215,
+    "f1": 0.3214695752009185,
+    "support": 437,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_svm",
+    "emotion": "curiosity",
+    "precision": 0.2967409948542024,
+    "recall": 0.3134057971014493,
+    "f1": 0.3048458149779736,
+    "support": 552,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_svm",
+    "emotion": "surprise",
+    "precision": 0.3283582089552239,
+    "recall": 0.26426426426426425,
+    "f1": 0.2928452579034942,
+    "support": 333,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_svm",
+    "emotion": "desire",
+    "precision": 0.3492063492063492,
+    "recall": 0.2391304347826087,
+    "f1": 0.2838709677419355,
+    "support": 184,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_svm",
+    "emotion": "disgust",
+    "precision": 0.31277533039647576,
+    "recall": 0.24398625429553264,
+    "f1": 0.27413127413127414,
+    "support": 291,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_svm",
+    "emotion": "caring",
+    "precision": 0.22969187675070027,
+    "recall": 0.2679738562091503,
+    "f1": 0.2473604826546003,
+    "support": 306,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_svm",
+    "emotion": "disapproval",
+    "precision": 0.2272069464544139,
+    "recall": 0.24841772151898733,
+    "f1": 0.23733938019652306,
+    "support": 632,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_svm",
+    "emotion": "confusion",
+    "precision": 0.23786407766990292,
+    "recall": 0.23557692307692307,
+    "f1": 0.23671497584541062,
+    "support": 416,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_svm",
+    "emotion": "approval",
+    "precision": 0.21940163191296463,
+    "recall": 0.24224224224224225,
+    "f1": 0.2302568981921979,
+    "support": 999,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_svm",
+    "emotion": "annoyance",
+    "precision": 0.18059299191374664,
+    "recall": 0.2,
+    "f1": 0.18980169971671387,
+    "support": 670,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_svm",
+    "emotion": "excitement",
+    "precision": 0.16243654822335024,
+    "recall": 0.2064516129032258,
+    "f1": 0.18181818181818182,
+    "support": 310,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_svm",
+    "emotion": "embarrassment",
+    "precision": 0.24074074074074073,
+    "recall": 0.10569105691056911,
+    "f1": 0.14689265536723164,
+    "support": 123,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_svm",
+    "emotion": "pride",
+    "precision": 0.23529411764705882,
+    "recall": 0.10526315789473684,
+    "f1": 0.14545454545454545,
+    "support": 76,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_svm",
+    "emotion": "disappointment",
+    "precision": 0.14018691588785046,
+    "recall": 0.14492753623188406,
+    "f1": 0.14251781472684086,
+    "support": 414,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_svm",
+    "emotion": "realization",
+    "precision": 0.13777777777777778,
+    "recall": 0.1341991341991342,
+    "f1": 0.13596491228070176,
+    "support": 462,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_svm",
+    "emotion": "nervousness",
+    "precision": 0.23529411764705882,
+    "recall": 0.0761904761904762,
+    "f1": 0.11510791366906475,
+    "support": 105,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_svm",
+    "emotion": "grief",
+    "precision": 0.15789473684210525,
+    "recall": 0.075,
+    "f1": 0.1016949152542373,
+    "support": 40,
+    "seed": 42
+  },
+  {
+    "method": "tfidf_svm",
+    "emotion": "relief",
+    "precision": 0.1111111111111111,
+    "recall": 0.05194805194805195,
+    "f1": 0.07079646017699115,
+    "support": 77,
+    "seed": 42
+  },
+  {
+    "method": "trained_distilbert",
+    "emotion": "gratitude",
+    "precision": 0.8779264214046822,
+    "recall": 0.7824143070044709,
+    "f1": 0.8274231678486997,
+    "support": 671,
+    "seed": 42
+  },
+  {
+    "method": "trained_distilbert",
+    "emotion": "love",
+    "precision": 0.6394316163410302,
+    "recall": 0.7515657620041754,
+    "f1": 0.690978886756238,
+    "support": 479,
+    "seed": 42
+  },
+  {
+    "method": "trained_distilbert",
+    "emotion": "amusement",
+    "precision": 0.5764546684709067,
+    "recall": 0.7874306839186691,
+    "f1": 0.665625,
+    "support": 541,
+    "seed": 42
+  },
+  {
+    "method": "trained_distilbert",
+    "emotion": "admiration",
+    "precision": 0.6241799437675727,
+    "recall": 0.6491228070175439,
+    "f1": 0.6364070711896799,
+    "support": 1026,
+    "seed": 42
+  },
+  {
+    "method": "trained_distilbert",
+    "emotion": "remorse",
+    "precision": 0.4312796208530806,
+    "recall": 0.6946564885496184,
+    "f1": 0.5321637426900585,
+    "support": 131,
+    "seed": 42
+  },
+  {
+    "method": "trained_distilbert",
+    "emotion": "curiosity",
+    "precision": 0.43037974683544306,
+    "recall": 0.677536231884058,
+    "f1": 0.5263898662913441,
+    "support": 552,
+    "seed": 42
+  },
+  {
+    "method": "trained_distilbert",
+    "emotion": "neutral",
+    "precision": 0.471939736346516,
+    "recall": 0.5921550094517959,
+    "f1": 0.5252567595891846,
+    "support": 2116,
+    "seed": 42
+  },
+  {
+    "method": "trained_distilbert",
+    "emotion": "sadness",
+    "precision": 0.5106951871657754,
+    "recall": 0.4948186528497409,
+    "f1": 0.5026315789473684,
+    "support": 386,
+    "seed": 42
+  },
+  {
+    "method": "trained_distilbert",
+    "emotion": "surprise",
+    "precision": 0.49843260188087773,
+    "recall": 0.4774774774774775,
+    "f1": 0.48773006134969327,
+    "support": 333,
+    "seed": 42
+  },
+  {
+    "method": "trained_distilbert",
+    "emotion": "fear",
+    "precision": 0.40229885057471265,
+    "recall": 0.5932203389830508,
+    "f1": 0.4794520547945205,
+    "support": 177,
+    "seed": 42
+  },
+  {
+    "method": "trained_distilbert",
+    "emotion": "joy",
+    "precision": 0.4696969696969697,
+    "recall": 0.47071583514099785,
+    "f1": 0.47020585048754066,
+    "support": 461,
+    "seed": 42
+  },
+  {
+    "method": "trained_distilbert",
+    "emotion": "anger",
+    "precision": 0.4042145593869732,
+    "recall": 0.482837528604119,
+    "f1": 0.44004171011470283,
+    "support": 437,
+    "seed": 42
+  },
+  {
+    "method": "trained_distilbert",
+    "emotion": "optimism",
+    "precision": 0.5028571428571429,
+    "recall": 0.3876651982378855,
+    "f1": 0.43781094527363185,
+    "support": 454,
+    "seed": 42
+  },
+  {
+    "method": "trained_distilbert",
+    "emotion": "confusion",
+    "precision": 0.3132075471698113,
+    "recall": 0.5985576923076923,
+    "f1": 0.4112303881090008,
+    "support": 416,
+    "seed": 42
+  },
+  {
+    "method": "trained_distilbert",
+    "emotion": "disapproval",
+    "precision": 0.3508158508158508,
+    "recall": 0.4762658227848101,
+    "f1": 0.4040268456375839,
+    "support": 632,
+    "seed": 42
+  },
+  {
+    "method": "trained_distilbert",
+    "emotion": "desire",
+    "precision": 0.3295880149812734,
+    "recall": 0.4782608695652174,
+    "f1": 0.3902439024390244,
+    "support": 184,
+    "seed": 42
+  },
+  {
+    "method": "trained_distilbert",
+    "emotion": "caring",
+    "precision": 0.3123543123543124,
+    "recall": 0.43790849673202614,
+    "f1": 0.36462585034013606,
+    "support": 306,
+    "seed": 42
+  },
+  {
+    "method": "trained_distilbert",
+    "emotion": "approval",
+    "precision": 0.295369211514393,
+    "recall": 0.4724724724724725,
+    "f1": 0.3634963419329996,
+    "support": 999,
+    "seed": 42
+  },
+  {
+    "method": "trained_distilbert",
+    "emotion": "disgust",
+    "precision": 0.4512820512820513,
+    "recall": 0.3024054982817869,
+    "f1": 0.36213991769547327,
+    "support": 291,
+    "seed": 42
+  },
+  {
+    "method": "trained_distilbert",
+    "emotion": "annoyance",
+    "precision": 0.2469050894085282,
+    "recall": 0.5358208955223881,
+    "f1": 0.3380414312617702,
+    "support": 670,
+    "seed": 42
+  },
+  {
+    "method": "trained_distilbert",
+    "emotion": "excitement",
+    "precision": 0.2706422018348624,
+    "recall": 0.38064516129032255,
+    "f1": 0.3163538873994638,
+    "support": 310,
+    "seed": 42
+  },
+  {
+    "method": "trained_distilbert",
+    "emotion": "disappointment",
+    "precision": 0.23237179487179488,
+    "recall": 0.3502415458937198,
+    "f1": 0.279383429672447,
+    "support": 414,
+    "seed": 42
+  },
+  {
+    "method": "trained_distilbert",
+    "emotion": "embarrassment",
+    "precision": 0.28865979381443296,
+    "recall": 0.22764227642276422,
+    "f1": 0.2545454545454545,
+    "support": 123,
+    "seed": 42
+  },
+  {
+    "method": "trained_distilbert",
+    "emotion": "nervousness",
+    "precision": 0.15789473684210525,
+    "recall": 0.34285714285714286,
+    "f1": 0.21621621621621623,
+    "support": 105,
+    "seed": 42
+  },
+  {
+    "method": "trained_distilbert",
+    "emotion": "realization",
+    "precision": 0.20638820638820637,
+    "recall": 0.18181818181818182,
+    "f1": 0.19332566168009205,
+    "support": 462,
+    "seed": 42
+  },
+  {
+    "method": "trained_distilbert",
+    "emotion": "pride",
+    "precision": 0.5714285714285714,
+    "recall": 0.05263157894736842,
+    "f1": 0.0963855421686747,
+    "support": 76,
+    "seed": 42
+  },
+  {
+    "method": "trained_distilbert",
+    "emotion": "relief",
+    "precision": 0.08888888888888889,
+    "recall": 0.05194805194805195,
+    "f1": 0.06557377049180328,
+    "support": 77,
+    "seed": 42
+  },
+  {
+    "method": "trained_distilbert",
+    "emotion": "grief",
+    "precision": 0.5,
+    "recall": 0.025,
+    "f1": 0.047619047619047616,
+    "support": 40,
+    "seed": 42
+  },
+  {
+    "method": "trained_roberta",
+    "emotion": "gratitude",
+    "precision": 0.8282674772036475,
+    "recall": 0.812220566318927,
+    "f1": 0.8201655379984951,
+    "support": 671,
+    "seed": 42
+  },
+  {
+    "method": "trained_roberta",
+    "emotion": "love",
+    "precision": 0.65,
+    "recall": 0.7599164926931107,
+    "f1": 0.7006737247353224,
+    "support": 479,
+    "seed": 42
+  },
+  {
+    "method": "trained_roberta",
+    "emotion": "amusement",
+    "precision": 0.6129032258064516,
+    "recall": 0.7375231053604436,
+    "f1": 0.6694630872483222,
+    "support": 541,
+    "seed": 42
+  },
+  {
+    "method": "trained_roberta",
+    "emotion": "admiration",
+    "precision": 0.6588114754098361,
+    "recall": 0.6267056530214425,
+    "f1": 0.6423576423576424,
+    "support": 1026,
+    "seed": 42
+  },
+  {
+    "method": "trained_roberta",
+    "emotion": "remorse",
+    "precision": 0.4639175257731959,
+    "recall": 0.6870229007633588,
+    "f1": 0.5538461538461539,
+    "support": 131,
+    "seed": 42
+  },
+  {
+    "method": "trained_roberta",
+    "emotion": "neutral",
+    "precision": 0.5077868852459017,
+    "recall": 0.5855387523629489,
+    "f1": 0.5438981562774363,
+    "support": 2116,
+    "seed": 42
+  },
+  {
+    "method": "trained_roberta",
+    "emotion": "curiosity",
+    "precision": 0.4334061135371179,
+    "recall": 0.7192028985507246,
+    "f1": 0.5408719346049047,
+    "support": 552,
+    "seed": 42
+  },
+  {
+    "method": "trained_roberta",
+    "emotion": "fear",
+    "precision": 0.4801980198019802,
+    "recall": 0.5480225988700564,
+    "f1": 0.5118733509234829,
+    "support": 177,
+    "seed": 42
+  },
+  {
+    "method": "trained_roberta",
+    "emotion": "sadness",
+    "precision": 0.5548780487804879,
+    "recall": 0.47150259067357514,
+    "f1": 0.5098039215686274,
+    "support": 386,
+    "seed": 42
+  },
+  {
+    "method": "trained_roberta",
+    "emotion": "surprise",
+    "precision": 0.5245901639344263,
+    "recall": 0.4804804804804805,
+    "f1": 0.5015673981191222,
+    "support": 333,
+    "seed": 42
+  },
+  {
+    "method": "trained_roberta",
+    "emotion": "joy",
+    "precision": 0.48337028824833705,
+    "recall": 0.47288503253796094,
+    "f1": 0.4780701754385965,
+    "support": 461,
+    "seed": 42
+  },
+  {
+    "method": "trained_roberta",
+    "emotion": "optimism",
+    "precision": 0.5224719101123596,
+    "recall": 0.40969162995594716,
+    "f1": 0.45925925925925926,
+    "support": 454,
+    "seed": 42
+  },
+  {
+    "method": "trained_roberta",
+    "emotion": "anger",
+    "precision": 0.4359504132231405,
+    "recall": 0.482837528604119,
+    "f1": 0.4581976112920738,
+    "support": 437,
+    "seed": 42
+  },
+  {
+    "method": "trained_roberta",
+    "emotion": "desire",
+    "precision": 0.46368715083798884,
+    "recall": 0.45108695652173914,
+    "f1": 0.4573002754820937,
+    "support": 184,
+    "seed": 42
+  },
+  {
+    "method": "trained_roberta",
+    "emotion": "disapproval",
+    "precision": 0.39470198675496687,
+    "recall": 0.47151898734177217,
+    "f1": 0.4297043979812545,
+    "support": 632,
+    "seed": 42
+  },
+  {
+    "method": "trained_roberta",
+    "emotion": "confusion",
+    "precision": 0.3195625759416768,
+    "recall": 0.6322115384615384,
+    "f1": 0.4245359160613398,
+    "support": 416,
+    "seed": 42
+  },
+  {
+    "method": "trained_roberta",
+    "emotion": "caring",
+    "precision": 0.37464788732394366,
+    "recall": 0.434640522875817,
+    "f1": 0.40242057488653554,
+    "support": 306,
+    "seed": 42
+  },
+  {
+    "method": "trained_roberta",
+    "emotion": "disgust",
+    "precision": 0.36809815950920244,
+    "recall": 0.41237113402061853,
+    "f1": 0.3889789303079417,
+    "support": 291,
+    "seed": 42
+  },
+  {
+    "method": "trained_roberta",
+    "emotion": "approval",
+    "precision": 0.3515825491873396,
+    "recall": 0.4114114114114114,
+    "f1": 0.37915129151291516,
+    "support": 999,
+    "seed": 42
+  },
+  {
+    "method": "trained_roberta",
+    "emotion": "excitement",
+    "precision": 0.34513274336283184,
+    "recall": 0.3774193548387097,
+    "f1": 0.3605546995377504,
+    "support": 310,
+    "seed": 42
+  },
+  {
+    "method": "trained_roberta",
+    "emotion": "annoyance",
+    "precision": 0.32506527415143605,
+    "recall": 0.3716417910447761,
+    "f1": 0.3467966573816156,
+    "support": 670,
+    "seed": 42
+  },
+  {
+    "method": "trained_roberta",
+    "emotion": "pride",
+    "precision": 0.391304347826087,
+    "recall": 0.23684210526315788,
+    "f1": 0.29508196721311475,
+    "support": 76,
+    "seed": 42
+  },
+  {
+    "method": "trained_roberta",
+    "emotion": "disappointment",
+    "precision": 0.28193832599118945,
+    "recall": 0.30917874396135264,
+    "f1": 0.29493087557603687,
+    "support": 414,
+    "seed": 42
+  },
+  {
+    "method": "trained_roberta",
+    "emotion": "embarrassment",
+    "precision": 0.36585365853658536,
+    "recall": 0.24390243902439024,
+    "f1": 0.2926829268292683,
+    "support": 123,
+    "seed": 42
+  },
+  {
+    "method": "trained_roberta",
+    "emotion": "nervousness",
+    "precision": 0.425,
+    "recall": 0.1619047619047619,
+    "f1": 0.23448275862068965,
+    "support": 105,
+    "seed": 42
+  },
+  {
+    "method": "trained_roberta",
+    "emotion": "realization",
+    "precision": 0.28524590163934427,
+    "recall": 0.18831168831168832,
+    "f1": 0.22685788787483702,
+    "support": 462,
+    "seed": 42
+  },
+  {
+    "method": "trained_roberta",
+    "emotion": "relief",
+    "precision": 0.12162162162162163,
+    "recall": 0.11688311688311688,
+    "f1": 0.11920529801324503,
+    "support": 77,
+    "seed": 42
+  },
+  {
+    "method": "trained_roberta",
+    "emotion": "grief",
+    "precision": 0.125,
+    "recall": 0.05,
+    "f1": 0.07142857142857142,
+    "support": 40,
+    "seed": 42
+  }
+]

@@ -1,0 +1,21 @@
+method,emotion,precision,recall,f1,support,seed,display_name
+roberta_class_balanced_focal,grief,0.7083333333333334,0.425,0.53125,40,42,RoBERTa + class-balanced focal loss
+roberta_class_balanced_focal,pride,0.5581395348837209,0.3157894736842105,0.4033613445378151,76,42,RoBERTa + class-balanced focal loss
+roberta_class_balanced_focal,relief,0.3125,0.3896103896103896,0.3468208092485549,77,42,RoBERTa + class-balanced focal loss
+roberta_class_balanced_focal,embarrassment,0.2524752475247525,0.4146341463414634,0.3138461538461538,123,42,RoBERTa + class-balanced focal loss
+roberta_class_balanced_focal,nervousness,0.3703703703703703,0.1904761904761904,0.2515723270440251,105,42,RoBERTa + class-balanced focal loss
+roberta_weighted_focal,embarrassment,0.3333333333333333,0.2926829268292683,0.3116883116883117,123,42,RoBERTa + weighted focal loss
+roberta_weighted_focal,grief,0.3571428571428571,0.25,0.2941176470588235,40,42,RoBERTa + weighted focal loss
+roberta_weighted_focal,nervousness,0.2884615384615384,0.2857142857142857,0.2870813397129186,105,42,RoBERTa + weighted focal loss
+roberta_weighted_focal,pride,0.2038216560509554,0.4210526315789473,0.2746781115879828,76,42,RoBERTa + weighted focal loss
+roberta_weighted_focal,relief,0.217391304347826,0.1948051948051948,0.2054794520547945,77,42,RoBERTa + weighted focal loss
+trained_distilbert,embarrassment,0.2886597938144329,0.2276422764227642,0.2545454545454545,123,42,DistilBERT
+trained_distilbert,nervousness,0.1578947368421052,0.3428571428571428,0.2162162162162162,105,42,DistilBERT
+trained_distilbert,pride,0.5714285714285714,0.0526315789473684,0.0963855421686747,76,42,DistilBERT
+trained_distilbert,relief,0.0888888888888888,0.0519480519480519,0.0655737704918032,77,42,DistilBERT
+trained_distilbert,grief,0.5,0.025,0.0476190476190476,40,42,DistilBERT
+trained_roberta,pride,0.391304347826087,0.2368421052631578,0.2950819672131147,76,42,RoBERTa
+trained_roberta,embarrassment,0.3658536585365853,0.2439024390243902,0.2926829268292683,123,42,RoBERTa
+trained_roberta,nervousness,0.425,0.1619047619047619,0.2344827586206896,105,42,RoBERTa
+trained_roberta,relief,0.1216216216216216,0.1168831168831168,0.119205298013245,77,42,RoBERTa
+trained_roberta,grief,0.125,0.05,0.0714285714285714,40,42,RoBERTa

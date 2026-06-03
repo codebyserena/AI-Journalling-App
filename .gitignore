@@ -1,0 +1,12 @@
+# ML models
+backend/emotion_model/
+backend/emotion_model_improved/
+backend/emotion_model_improved_test/
+backend/emotion_model_roberta/
+backend/emotion_model_roberta_class_balanced_focal/
+backend/emotion_model_roberta_test/
+backend/emotion_model_roberta_weighted_focal/
+
+# Python
+__pycache__/
+*.pyc

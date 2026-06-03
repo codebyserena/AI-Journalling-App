@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="266" viewBox="0 0 900 266">
+<rect width="100%" height="100%" fill="#fbfaf7"/>
+<text x="190" y="30" font-family="Arial" font-size="20" font-weight="700" fill="#24312e">Latency per Sample (ms)</text>
+<text x="20" y="76" font-family="Arial" font-size="13" fill="#39423f">tfidf_logreg</text>
+<rect x="190" y="56" width="0.98" height="22" rx="4" fill="#5b927f"/>
+<text x="198.97764221332545" y="72" font-family="Arial" font-size="13" fill="#39423f">0.014</text>
+<text x="20" y="110" font-family="Arial" font-size="13" fill="#39423f">tfidf_svm</text>
+<rect x="190" y="90" width="0.98" height="22" rx="4" fill="#5b927f"/>
+<text x="198.9789825651114" y="106" font-family="Arial" font-size="13" fill="#39423f">0.014</text>
+<text x="20" y="144" font-family="Arial" font-size="13" fill="#39423f">lexicon</text>
+<rect x="190" y="124" width="1.95" height="22" rx="4" fill="#5b927f"/>
+<text x="199.94555286061077" y="140" font-family="Arial" font-size="13" fill="#39423f">0.028</text>
+<text x="20" y="178" font-family="Arial" font-size="13" fill="#39423f">trained_distilbert</text>
+<rect x="190" y="158" width="385.06" height="22" rx="4" fill="#5b927f"/>
+<text x="583.0556355336511" y="174" font-family="Arial" font-size="13" fill="#39423f">5.533</text>
+<text x="20" y="212" font-family="Arial" font-size="13" fill="#39423f">trained_roberta</text>
+<rect x="190" y="192" width="670.00" height="22" rx="4" fill="#5b927f"/>
+<text x="868.0" y="208" font-family="Arial" font-size="13" fill="#39423f">9.628</text>
+</svg>

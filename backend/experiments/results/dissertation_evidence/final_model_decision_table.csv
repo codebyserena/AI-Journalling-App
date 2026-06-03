@@ -1,0 +1,6 @@
+model,strength,weakness,decision
+TF-IDF Logistic Regression,Strongest classical baseline; very fast,Lower Micro-F1 and Macro-F1 than transformer models,Baseline only
+DistilBERT,Faster and lighter transformer,Lower Micro-F1 and Macro-F1 than RoBERTa,Not selected
+RoBERTa,"Best Micro-F1, hamming loss, and subset accuracy",Slower than DistilBERT,Selected for deployment
+RoBERTa + weighted focal loss,Improved recall and Macro-F1 compared with standard RoBERTa,"Lower precision, Micro-F1, and subset accuracy",Research variant
+RoBERTa + class-balanced focal loss,Best Macro-F1 and rare-label performance,More false positives and lower exact-match performance,Rare-label fairness variant

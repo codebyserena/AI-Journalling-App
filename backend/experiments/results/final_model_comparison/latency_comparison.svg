@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="402" viewBox="0 0 900 402">
+<rect width="100%" height="100%" fill="#fbfaf7"/>
+<text x="190" y="30" font-family="Arial" font-size="20" font-weight="700" fill="#24312e">Latency per Sample (ms)</text>
+<text x="20" y="76" font-family="Arial" font-size="13" fill="#39423f">dummy_majority</text>
+<rect x="190" y="56" width="0.01" height="22" rx="4" fill="#5b927f"/>
+<text x="198.0093431793385" y="72" font-family="Arial" font-size="13" fill="#39423f">0.000</text>
+<text x="20" y="110" font-family="Arial" font-size="13" fill="#39423f">tfidf_logreg</text>
+<rect x="190" y="90" width="0.96" height="22" rx="4" fill="#5b927f"/>
+<text x="198.96323900032877" y="106" font-family="Arial" font-size="13" fill="#39423f">0.014</text>
+<text x="20" y="144" font-family="Arial" font-size="13" fill="#39423f">tfidf_svm</text>
+<rect x="190" y="124" width="0.99" height="22" rx="4" fill="#5b927f"/>
+<text x="198.99434814193393" y="140" font-family="Arial" font-size="13" fill="#39423f">0.014</text>
+<text x="20" y="178" font-family="Arial" font-size="13" fill="#39423f">tfidf_nb</text>
+<rect x="190" y="158" width="1.27" height="22" rx="4" fill="#5b927f"/>
+<text x="199.26652443683736" y="174" font-family="Arial" font-size="13" fill="#39423f">0.018</text>
+<text x="20" y="212" font-family="Arial" font-size="13" fill="#39423f">lexicon</text>
+<rect x="190" y="192" width="1.94" height="22" rx="4" fill="#5b927f"/>
+<text x="199.9439251404468" y="208" font-family="Arial" font-size="13" fill="#39423f">0.028</text>
+<text x="20" y="246" font-family="Arial" font-size="13" fill="#39423f">trained_distilbert</text>
+<rect x="190" y="226" width="382.23" height="22" rx="4" fill="#5b927f"/>
+<text x="580.2294437025532" y="242" font-family="Arial" font-size="13" fill="#39423f">5.486</text>
+<text x="20" y="280" font-family="Arial" font-size="13" fill="#39423f">roberta_weighted_focal</text>
+<rect x="190" y="260" width="667.17" height="22" rx="4" fill="#5b927f"/>
+<text x="865.1726298647483" y="276" font-family="Arial" font-size="13" fill="#39423f">9.576</text>
+<text x="20" y="314" font-family="Arial" font-size="13" fill="#39423f">trained_roberta</text>
+<rect x="190" y="294" width="669.31" height="22" rx="4" fill="#5b927f"/>
+<text x="867.305060520296" y="310" font-family="Arial" font-size="13" fill="#39423f">9.607</text>
+<text x="20" y="348" font-family="Arial" font-size="13" fill="#39423f">roberta_class_balanced_focal</text>
+<rect x="190" y="328" width="670.00" height="22" rx="4" fill="#5b927f"/>
+<text x="868.0" y="344" font-family="Arial" font-size="13" fill="#39423f">9.616</text>
+</svg>

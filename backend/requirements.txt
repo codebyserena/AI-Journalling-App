@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+transformers
+torch
+pandas
+accelerate
+sqlalchemy
+bertopic
+sentence-transformers
+scikit-learn
+passlib
+bcrypt
+python-jose
