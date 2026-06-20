@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="930" height="370" viewBox="0 0 930 370">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="24" y="34" font-family="Arial" font-size="22" font-weight="700" fill="#1f2933">Rare Emotion F1 Heatmap</text>
+<text x="178" y="52" font-family="Arial" font-size="12" fill="#25313b">RoBERTa</text>
+<text x="358" y="52" font-family="Arial" font-size="12" fill="#25313b">RoBERTa + Weighted Focal Loss</text>
+<text x="538" y="52" font-family="Arial" font-size="12" fill="#25313b">RoBERTa + Class-Balanced Focal Loss</text>
+<text x="718" y="52" font-family="Arial" font-size="12" fill="#25313b">DistilBERT</text>
+<text x="24" y="100" font-family="Arial" font-size="14" fill="#25313b">grief</text>
+<rect x="170" y="70" width="172" height="40" rx="4" fill="rgb(227,207,245)" stroke="#e5e7eb"/>
+<text x="232" y="96" font-family="Arial" font-size="14" font-weight="700" fill="#111827">0.071</text>
+<rect x="350" y="70" width="172" height="40" rx="4" fill="rgb(171,151,245)" stroke="#e5e7eb"/>
+<text x="412" y="96" font-family="Arial" font-size="14" font-weight="700" fill="#111827">0.294</text>
+<rect x="530" y="70" width="172" height="40" rx="4" fill="rgb(112,92,245)" stroke="#e5e7eb"/>
+<text x="592" y="96" font-family="Arial" font-size="14" font-weight="700" fill="#111827">0.531</text>
+<rect x="710" y="70" width="172" height="40" rx="4" fill="rgb(233,213,245)" stroke="#e5e7eb"/>
+<text x="772" y="96" font-family="Arial" font-size="14" font-weight="700" fill="#111827">0.048</text>
+<text x="24" y="148" font-family="Arial" font-size="14" fill="#25313b">relief</text>
+<rect x="170" y="118" width="172" height="40" rx="4" fill="rgb(215,195,245)" stroke="#e5e7eb"/>
+<text x="232" y="144" font-family="Arial" font-size="14" font-weight="700" fill="#111827">0.119</text>
+<rect x="350" y="118" width="172" height="40" rx="4" fill="rgb(193,173,245)" stroke="#e5e7eb"/>
+<text x="412" y="144" font-family="Arial" font-size="14" font-weight="700" fill="#111827">0.205</text>
+<rect x="530" y="118" width="172" height="40" rx="4" fill="rgb(158,138,245)" stroke="#e5e7eb"/>
+<text x="592" y="144" font-family="Arial" font-size="14" font-weight="700" fill="#111827">0.347</text>
+<rect x="710" y="118" width="172" height="40" rx="4" fill="rgb(228,208,245)" stroke="#e5e7eb"/>
+<text x="772" y="144" font-family="Arial" font-size="14" font-weight="700" fill="#111827">0.066</text>
+<text x="24" y="196" font-family="Arial" font-size="14" fill="#25313b">pride</text>
+<rect x="170" y="166" width="172" height="40" rx="4" fill="rgb(171,151,245)" stroke="#e5e7eb"/>
+<text x="232" y="192" font-family="Arial" font-size="14" font-weight="700" fill="#111827">0.295</text>
+<rect x="350" y="166" width="172" height="40" rx="4" fill="rgb(176,156,245)" stroke="#e5e7eb"/>
+<text x="412" y="192" font-family="Arial" font-size="14" font-weight="700" fill="#111827">0.275</text>
+<rect x="530" y="166" width="172" height="40" rx="4" fill="rgb(144,124,245)" stroke="#e5e7eb"/>
+<text x="592" y="192" font-family="Arial" font-size="14" font-weight="700" fill="#111827">0.403</text>
+<rect x="710" y="166" width="172" height="40" rx="4" fill="rgb(220,200,245)" stroke="#e5e7eb"/>
+<text x="772" y="192" font-family="Arial" font-size="14" font-weight="700" fill="#111827">0.096</text>
+<text x="24" y="244" font-family="Arial" font-size="14" fill="#25313b">nervousness</text>
+<rect x="170" y="214" width="172" height="40" rx="4" fill="rgb(186,166,245)" stroke="#e5e7eb"/>
+<text x="232" y="240" font-family="Arial" font-size="14" font-weight="700" fill="#111827">0.234</text>
+<rect x="350" y="214" width="172" height="40" rx="4" fill="rgb(173,153,245)" stroke="#e5e7eb"/>
+<text x="412" y="240" font-family="Arial" font-size="14" font-weight="700" fill="#111827">0.287</text>
+<rect x="530" y="214" width="172" height="40" rx="4" fill="rgb(182,162,245)" stroke="#e5e7eb"/>
+<text x="592" y="240" font-family="Arial" font-size="14" font-weight="700" fill="#111827">0.252</text>
+<rect x="710" y="214" width="172" height="40" rx="4" fill="rgb(190,170,245)" stroke="#e5e7eb"/>
+<text x="772" y="240" font-family="Arial" font-size="14" font-weight="700" fill="#111827">0.216</text>
+<text x="24" y="292" font-family="Arial" font-size="14" fill="#25313b">embarrassment</text>
+<rect x="170" y="262" width="172" height="40" rx="4" fill="rgb(171,151,245)" stroke="#e5e7eb"/>
+<text x="232" y="288" font-family="Arial" font-size="14" font-weight="700" fill="#111827">0.293</text>
+<rect x="350" y="262" width="172" height="40" rx="4" fill="rgb(167,147,245)" stroke="#e5e7eb"/>
+<text x="412" y="288" font-family="Arial" font-size="14" font-weight="700" fill="#111827">0.312</text>
+<rect x="530" y="262" width="172" height="40" rx="4" fill="rgb(166,146,245)" stroke="#e5e7eb"/>
+<text x="592" y="288" font-family="Arial" font-size="14" font-weight="700" fill="#111827">0.314</text>
+<rect x="710" y="262" width="172" height="40" rx="4" fill="rgb(181,161,245)" stroke="#e5e7eb"/>
+<text x="772" y="288" font-family="Arial" font-size="14" font-weight="700" fill="#111827">0.255</text>
+</svg>

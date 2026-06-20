@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="560" viewBox="0 0 760 560">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="24" y="30" font-family="Arial" font-size="22" font-weight="700" fill="#1f2933">Precision-Recall Trade-off</text>
+<line x1="80.0" y1="50" x2="80.0" y2="470" stroke="#edf0f2"/>
+<line x1="80" y1="470.0" x2="680" y2="470.0" stroke="#edf0f2"/>
+<text x="68.0" y="492" font-family="Arial" font-size="12">0.35</text>
+<text x="38" y="474.0" font-family="Arial" font-size="12">0.35</text>
+<line x1="200.0" y1="50" x2="200.0" y2="470" stroke="#edf0f2"/>
+<line x1="80" y1="386.0" x2="680" y2="386.0" stroke="#edf0f2"/>
+<text x="188.0" y="492" font-family="Arial" font-size="12">0.40</text>
+<text x="38" y="390.0" font-family="Arial" font-size="12">0.40</text>
+<line x1="320.0" y1="50" x2="320.0" y2="470" stroke="#edf0f2"/>
+<line x1="80" y1="302.0" x2="680" y2="302.0" stroke="#edf0f2"/>
+<text x="308.0" y="492" font-family="Arial" font-size="12">0.45</text>
+<text x="38" y="306.0" font-family="Arial" font-size="12">0.45</text>
+<line x1="440.0" y1="50" x2="440.0" y2="470" stroke="#edf0f2"/>
+<line x1="80" y1="218.0" x2="680" y2="218.0" stroke="#edf0f2"/>
+<text x="428.0" y="492" font-family="Arial" font-size="12">0.50</text>
+<text x="38" y="222.0" font-family="Arial" font-size="12">0.50</text>
+<line x1="560.0" y1="50" x2="560.0" y2="470" stroke="#edf0f2"/>
+<line x1="80" y1="134.0" x2="680" y2="134.0" stroke="#edf0f2"/>
+<text x="548.0" y="492" font-family="Arial" font-size="12">0.55</text>
+<text x="38" y="138.0" font-family="Arial" font-size="12">0.55</text>
+<line x1="80" y1="470" x2="680" y2="470" stroke="#25313b"/>
+<line x1="80" y1="50" x2="80" y2="470" stroke="#25313b"/>
+<text x="340.0" y="532" font-family="Arial" font-size="14">Precision</text>
+<text x="18" y="260.0" transform="rotate(-90 18,260.0)" font-family="Arial" font-size="14">Recall</text>
+<circle cx="367.7" cy="183.9" r="8" fill="#2f6f5e"/>
+<text x="379.7" y="187.9" font-family="Arial" font-size="12" fill="#25313b">RoBERTa</text>
+<circle cx="244.9" cy="114.9" r="8" fill="#b87935"/>
+<text x="256.9" y="118.9" font-family="Arial" font-size="12" fill="#25313b">RoBERTa + Weighted Focal Loss</text>
+<circle cx="207.2" cy="114.0" r="8" fill="#7655a6"/>
+<text x="219.2" y="118.0" font-family="Arial" font-size="12" fill="#25313b">RoBERTa + Class-Balanced Focal Loss</text>
+<circle cx="242.7" cy="161.8" r="8" fill="#6b9bbf"/>
+<text x="254.7" y="165.8" font-family="Arial" font-size="12" fill="#25313b">DistilBERT</text>
+</svg>
